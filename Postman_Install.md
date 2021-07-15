@@ -1,4 +1,4 @@
-# Manually Instal Linux Desktop Destibutions (APPs)
+# Manually Instal Linux Desktop Applications (APPs)
 
 #### Download POSTMAN/Others Packge (tar.gz in formet) 
 #### Postman link: [Download](https://www.postman.com/downloads)
